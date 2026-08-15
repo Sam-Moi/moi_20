@@ -1,0 +1,6 @@
+{
+  "name": "MOI / 20",
+  "description": "Birthday Edition 2026 automotive telemetry experience, garage showcase, interactive journey, 20 questions, driver profile, achievements, and birthday countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
